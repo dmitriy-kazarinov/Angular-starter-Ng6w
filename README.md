@@ -1,7 +1,5 @@
 # Angular-starter-Ng6w
 
-[![Angular-starter-Ng6w](https://monosnap.com/file/HLxDKF3x6YclS75prO8oQYO0LXJds3  "Angular-starter-Ng6w")](https://github.com/dulin666/Angular-starter-Ng6w)
-
 > The de facto starter repo for building scalable apps with [Angular](https://angularjs.org), [ES6](https://git.io/es6features), and [Webpack](http://webpack.github.io/)
 
 This repo serves as a minimal starter for those looking to get up-and-running with Angular and ES6, using [Webpack](http://webpack.github.io/) for the build process.
@@ -57,8 +55,5 @@ Angular-starter-Ng6w uses `webpack`. After you have installed all dependencies, 
 
 ___
 
-enjoy — **Angular-starter-Ng6w**
+enjoy — [**Angular-starter-Ng6w**](https://github.com/dulin666/Angular-starter-Ng6w)
 
-<br><br>
-
-[![Angular-starter-Ng6w](https://monosnap.com/file/HLxDKF3x6YclS75prO8oQYO0LXJds3  "Angular-starter-Ng6w")](https://github.com/dulin666/Angular-starter-Ng6w)
