@@ -1,7 +1,7 @@
 {
-  "name": "new-source",
+  "name": "Angular-starter-Ng6w",
   "version": "1.0.0",
-  "description": "Test Angular components",
+  "description": "Starter kit Angular-starter-Ng6w",
   "main": "index.html",
   "scripts": {
     "start": "webpack-dev-server"
