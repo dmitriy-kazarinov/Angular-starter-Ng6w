@@ -1,10 +1,10 @@
 import angular from 'angular';
-import HeaderModule from './header/header.module';
-// import FooterModule from './footer/footer.module';
+import AppHeaderModule from './app-header/app-header.module';
+import AppFooterModule from './app-footer/app-footer.module';
 
 const dependencies = [
-  HeaderModule.name
-  // FooterModule.name
+  AppHeaderModule.name,
+  AppFooterModule.name
 ];
 
 const CommonModule = angular
