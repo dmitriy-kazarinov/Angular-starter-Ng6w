@@ -7,6 +7,7 @@ This repo serves as a minimal starter for those looking to get up-and-running wi
 * The best practice in directory/file organization for Angular
 * A ready-to-go build system for working with [ES6](https://git.io/es6features)
 * Uses [UI-Router](https://ui-router.github.io/)
+* Refreshing the browser and rebuilding on file changes
 * Written based on angular style guide (ES2015) [angular-styleguide](https://github.com/toddmotto/angular-styleguide)
 
 ## Build System
