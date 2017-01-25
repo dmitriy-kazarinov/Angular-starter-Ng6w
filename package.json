@@ -1,13 +1,24 @@
 {
-  "name": "Angular-starter-Ng6w",
+  "name": "angular-starter-ng6w",
   "version": "1.0.0",
   "description": "Starter kit Angular-starter-Ng6w",
   "main": "index.html",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "Dmitry Dulin",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulin666/Angular-starter-Ng6w.git"
+  },
+  "keywords": [
+    "sketchpad"
+  ],
+  "author": "Dmitry Dulin <dulin.developer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dulin666/Angular-starter-Ng6w/issues"
+  },
+  "homepage": "https://github.com/dulin666/Angular-starter-Ng6w#readme",
   "dependencies": {
     "angular": "^1.6.1",
     "angular-ui-router": "^0.3.2",

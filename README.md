@@ -1,4 +1,6 @@
-# Angular-starter-Ng6w
+# Angular-starter-Ng6w [![npm version](https://badge.fury.io/js/angular-starter-ng6w.svg)](http://badge.fury.io/js/angular-starter-ng6w)
+
+[![NPM](https://nodei.co/npm/angular-starter-ng6w.png?downloads=true)](https://nodei.co/npm/angular-starter-ng6w/)
 
 > The de facto starter repo for building scalable apps with [Angular](https://angularjs.org), [ES6](https://git.io/es6features), and [Webpack](http://webpack.github.io/)
 
@@ -57,4 +59,3 @@ Angular-starter-Ng6w uses `webpack`. After you have installed all dependencies, 
 ___
 
 enjoy — [**Angular-starter-Ng6w**](https://github.com/dulin666/Angular-starter-Ng6w)
-
